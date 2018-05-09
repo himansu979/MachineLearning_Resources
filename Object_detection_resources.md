@@ -1,6 +1,7 @@
 # Links to Object detection resources
 
 ## General Resources
+* [TensorFlow Object Detection API tutorial — Training and Evaluating Custom Object Detector - March 26, 2018](https://becominghuman.ai/tensorflow-object-detection-api-tutorial-training-and-evaluating-custom-object-detector-ed2594afcf73)
 * North Indian Food or South Indian Food - March 21, 2018 [part-1](https://towardsdatascience.com/north-indian-food-or-south-indian-food-deep-learning-knows-it-all-part-1-13e1d20c359c), [part-2](https://towardsdatascience.com/north-indian-food-or-south-indian-food-deep-learning-knows-it-all-part-2-14a59d0ffc15)
 * [Using Tensorflow Object Detection to do Pixel Wise Classification - March 19, 2018](https://towardsdatascience.com/using-tensorflow-object-detection-to-do-pixel-wise-classification-702bf2605182)
 * [When Computer Vision Meets Hindu Gods!! - Feb 22, 2018)(https://towardsdatascience.com/when-computer-vision-meets-hindu-gods-927b5fa22063)
@@ -27,4 +28,5 @@
 
 ## Medical Field
 
-##
+## Youtube video resources
+* [Intro - TensorFlow Object Detection API Tutorial p.1 - sentdex](https://www.youtube.com/watch?v=COlbP62-B-U&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku)
