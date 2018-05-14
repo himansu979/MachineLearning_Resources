@@ -1,5 +1,6 @@
 - SSD: Single Shot MultiBox Detector : https://arxiv.org/abs/1512.02325
   - https://github.com/weiliu89/caffe/tree/ssd
+- Microsoft COCO: Common Objects in Context : https://arxiv.org/abs/1405.0312
 - MobileNets-V1 - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications : https://arxiv.org/abs/1704.04861
 - MobileNets-V2 - MobileNetV2: Inverted Residuals and Linear Bottlenecks : https://arxiv.org/abs/1801.04381
 
