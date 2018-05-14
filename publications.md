@@ -1,1 +1,6 @@
 - SSD: Single Shot MultiBox Detector : https://arxiv.org/abs/1512.02325
+  - https://github.com/weiliu89/caffe/tree/ssd
+- Inception-v3 - Rethinking the Inception Architecture for Computer Vision : https://arxiv.org/abs/1512.00567
+- BN-Inception-v2 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift : https://arxiv.org/abs/1502.03167
+- Inception/GoogLeNet - Going Deeper with Convolutions : https://arxiv.org/abs/1409.4842
+  - ImageNet Large Scale Visual Recognition Challenge 2014 (ILSVRC2014) : http://www.image-net.org/challenges/LSVRC/2014/
