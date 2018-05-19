@@ -8,3 +8,5 @@
 - BN-Inception-v2 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift : https://arxiv.org/abs/1502.03167
 - Inception/GoogLeNet - Going Deeper with Convolutions : https://arxiv.org/abs/1409.4842
   - ImageNet Large Scale Visual Recognition Challenge 2014 (ILSVRC2014) : http://www.image-net.org/challenges/LSVRC/2014/
+- VGG16 - Very Deep Convolutional Networks for Large-Scale Image Recognition : https://arxiv.org/abs/1409.1556
+  - Visual Geometry Group : http://www.robots.ox.ac.uk/~vgg/
