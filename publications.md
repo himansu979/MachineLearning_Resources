@@ -6,6 +6,8 @@ Speed/accuracy trade-offs for modern convolutional object detectors : https://ar
 - ImageNet Large Scale Visual Recognition Challenge 2014 (ILSVRC2014) : http://www.image-net.org/challenges/LSVRC/2014/
 - PASCAL Visual Object Classes Homepage : http://host.robots.ox.ac.uk/pascal/VOC/
 - Visual Geometry Group : http://www.robots.ox.ac.uk/~vgg/
+- kaggle Digit Recognizer : https://www.kaggle.com/c/digit-recognizer
+- THE MNIST DATABASE of handwritten digits : http://yann.lecun.com/exdb/mnist/
 
 <b> MobileNet Models </b>
 
