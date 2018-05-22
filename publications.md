@@ -1,10 +1,14 @@
 Speed/accuracy trade-offs for modern convolutional object detectors : https://arxiv.org/abs/1611.10012
 
+<b> MobileNet Models </b>
+
 - SSD: Single Shot MultiBox Detector : https://arxiv.org/abs/1512.02325
   - https://github.com/weiliu89/caffe/tree/ssd
 - Microsoft COCO: Common Objects in Context : https://arxiv.org/abs/1405.0312
-- MobileNets-V1 - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications : https://arxiv.org/abs/1704.04861
 - MobileNets-V2 - MobileNetV2: Inverted Residuals and Linear Bottlenecks : https://arxiv.org/abs/1801.04381
+- MobileNets-V1 - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications : https://arxiv.org/abs/1704.04861
+
+<b> Inception Models </b>
 
 - Inception-v3 - Rethinking the Inception Architecture for Computer Vision : https://arxiv.org/abs/1512.00567
 - BN-Inception-v2 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift : https://arxiv.org/abs/1502.03167
