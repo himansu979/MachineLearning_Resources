@@ -1,5 +1,12 @@
 Speed/accuracy trade-offs for modern convolutional object detectors : https://arxiv.org/abs/1611.10012
 
+<b> Datasets </b>
+
+- Microsoft COCO: Common Objects in Context : http://cocodataset.org/#home
+- ImageNet Large Scale Visual Recognition Challenge 2014 (ILSVRC2014) : http://www.image-net.org/challenges/LSVRC/2014/
+- PASCAL Visual Object Classes Homepage : http://host.robots.ox.ac.uk/pascal/VOC/
+- Visual Geometry Group : http://www.robots.ox.ac.uk/~vgg/
+
 <b> MobileNet Models </b>
 
 - SSD: Single Shot MultiBox Detector : https://arxiv.org/abs/1512.02325
@@ -16,7 +23,6 @@ Speed/accuracy trade-offs for modern convolutional object detectors : https://ar
   - ImageNet Large Scale Visual Recognition Challenge 2014 (ILSVRC2014) : http://www.image-net.org/challenges/LSVRC/2014/
 - VGG16 - Very Deep Convolutional Networks for Large-Scale Image Recognition : https://arxiv.org/abs/1409.1556
   - Visual Geometry Group : http://www.robots.ox.ac.uk/~vgg/
-
 
 <b> Region-based Convolutional Network </b>
 
