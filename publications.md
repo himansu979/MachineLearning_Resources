@@ -13,6 +13,7 @@ Speed/accuracy trade-offs for modern convolutional object detectors : https://ar
 - kaggle Digit Recognizer : https://www.kaggle.com/c/digit-recognizer
 - THE MNIST DATABASE of handwritten digits : http://yann.lecun.com/exdb/mnist/
 - UCI Semeion Handwritten Digit Data Set : https://archive.ics.uci.edu/ml/datasets/semeion+handwritten+digit
+- paper : http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130
 
 <b> MobileNet Models </b>
 
