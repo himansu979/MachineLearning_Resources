@@ -7,6 +7,9 @@ Speed/accuracy trade-offs for modern convolutional object detectors : https://ar
 - PASCAL Visual Object Classes Homepage : http://host.robots.ox.ac.uk/pascal/VOC/
 - Visual Geometry Group : http://www.robots.ox.ac.uk/~vgg/
 - CIFAR-10 - Object Recognition in Images : https://www.kaggle.com/c/cifar-10/data
+- Breast Cancer Wisconsin (Diagnostic) Data Set : https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+  - https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/data
+
 
 <b> MNIST dataset </b>
 
