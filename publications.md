@@ -1,15 +1,12 @@
 Speed/accuracy trade-offs for modern convolutional object detectors : https://arxiv.org/abs/1611.10012
 
-<b> Datasets </b>
+<b> Image Datasets </b>
 
 - Microsoft COCO: Common Objects in Context : http://cocodataset.org/#home
 - ImageNet Large Scale Visual Recognition Challenge 2014 (ILSVRC2014) : http://www.image-net.org/challenges/LSVRC/2014/
 - PASCAL Visual Object Classes Homepage : http://host.robots.ox.ac.uk/pascal/VOC/
 - Visual Geometry Group : http://www.robots.ox.ac.uk/~vgg/
 - CIFAR-10 - Object Recognition in Images : https://www.kaggle.com/c/cifar-10/data
-- Breast Cancer Wisconsin (Diagnostic) Data Set : https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
-  - https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/data
-
 
 <b> MNIST dataset </b>
 
@@ -17,6 +14,16 @@ Speed/accuracy trade-offs for modern convolutional object detectors : https://ar
 - THE MNIST DATABASE of handwritten digits : http://yann.lecun.com/exdb/mnist/
 - UCI Semeion Handwritten Digit Data Set : https://archive.ics.uci.edu/ml/datasets/semeion+handwritten+digit
 - paper : http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130
+
+<b> Machine Learning Datasets </b>
+
+- Iris Data Set : https://archive.ics.uci.edu/ml/datasets/iris
+  - http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+  - https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset
+  - https://www.kaggle.com/kamrankausar/iris-dataset-ml-and-deep-learning-from-scratch
+- Breast Cancer Wisconsin (Diagnostic) Data Set : https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+  - https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/data
+
 
 <b> MobileNet Models </b>
 
