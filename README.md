@@ -7,3 +7,4 @@ Resources for Data Science, Machine Learning, Deep Learning
 - [Top 15 Python Libraries for Data Science in 2017](https://www.datascience.com/blog/top-python-libraries-for-data-science-in-2017)
 - [My Top 9 Favorite Python Deep Learning Libraries](https://www.pyimagesearch.com/2016/06/27/my-top-9-favorite-python-deep-learning-libraries/)
 - [Top 8 Deep Learning Frameworks](https://dzone.com/articles/8-best-deep-learning-frameworks)
+- [Python Tutorial](https://www.python-course.eu/python3_course.php)
