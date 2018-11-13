@@ -8,3 +8,13 @@ Resources for Data Science, Machine Learning, Deep Learning
 - [My Top 9 Favorite Python Deep Learning Libraries](https://www.pyimagesearch.com/2016/06/27/my-top-9-favorite-python-deep-learning-libraries/)
 - [Top 8 Deep Learning Frameworks](https://dzone.com/articles/8-best-deep-learning-frameworks)
 - [Python Tutorial](https://www.python-course.eu/python3_course.php)
+- [Big Data Resources](https://github.com/onurakpolat/awesome-bigdata)
+- [Data Science Resources](https://github.com/bulutyazilim/awesome-datascience)
+- [Machine Learning Resources](https://github.com/josephmisiti/awesome-machine-learning)
+- [R Resources](https://github.com/qinwf/awesome-R)
+- [Kaggle Blog](http://blog.kaggle.com/)
+- [CS 229 Machine Learning Projects 2013](http://cs229.stanford.edu/projects2013.html)
+http://cs229.stanford.edu/suggestions.html
+https://www.analyticsvidhya.com/blog/2014/11/data-science-projects-learn/
+https://www.data.gov/applications
+
