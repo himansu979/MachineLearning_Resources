@@ -1,6 +1,15 @@
 # Machine Learning Resources
 Resources for Data Science, Machine Learning, Deep Learning
 
+# Machine Learning Cheatsheet
+
+- [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html#)
+- [Papers with code](https://github.com/zziz/pwc)
+- [deep learning object detection papers](https://github.com/hoya012/deep_learning_object_detection)
+- [Awesome Deep Learning links](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+
+# Machine Learning References
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)
 - [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
