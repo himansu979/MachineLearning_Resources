@@ -8,6 +8,7 @@ Resources for Data Science, Machine Learning, Deep Learning
 - [deep learning object detection papers](https://github.com/hoya012/deep_learning_object_detection)
 - [Awesome Deep Learning links](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
+- [NLP Books](https://github.com/shivamms/books/tree/master/nlp)
 
 
 # Machine Learning References
