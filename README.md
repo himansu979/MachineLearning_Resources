@@ -3,6 +3,7 @@ Resources for Data Science, Machine Learning, Deep Learning
 
 # Machine Learning Cheatsheet
 
+- [Datascience E-learning Virgilio](https://github.com/clone95/Virgilio)
 - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html#)
 - [Papers with code](https://github.com/zziz/pwc)
 - [deep learning object detection papers](https://github.com/hoya012/deep_learning_object_detection)
@@ -32,3 +33,30 @@ http://cs229.stanford.edu/suggestions.html
 https://www.analyticsvidhya.com/blog/2014/11/data-science-projects-learn/
 https://www.data.gov/applications
 
+
+# Tutorialspoint
+https://www.tutorialspoint.com/
+
+- OpenCV : https://www.tutorialspoint.com/opencv/index.htm
+- HTTP : https://www.tutorialspoint.com/http/index.htm
+- DBMS tutorial : https://www.tutorialspoint.com/dbms/index.htm
+- Agile Methodology : https://www.tutorialspoint.com/agile/index.htm
+- Flask Tutorial : https://www.tutorialspoint.com/flask/index.htm
+- HTML5 : https://www.tutorialspoint.com/html5/index.htm
+https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+https://www.tutorialspoint.com/agile_data_science/index.htm
+https://www.tutorialspoint.com/python/index.htm
+https://www.tutorialspoint.com/scala/index.htm
+https://www.tutorialspoint.com/map_reduce/index.htm
+https://www.tutorialspoint.com/apache_spark/index.htm
+https://www.tutorialspoint.com/sqlite/index.htm
+https://www.tutorialspoint.com/xml/index.htm
+https://www.tutorialspoint.com/object_oriented_python/index.htm
+https://www.tutorialspoint.com/pycharm/index.htm
+https://www.tutorialspoint.com/pyqt/index.htm
+https://www.tutorialspoint.com/pytorch/index.htm
+https://www.tutorialspoint.com/cloud_computing/index.htm
+https://www.tutorialspoint.com/python/python_text_processing.htm
+https://www.tutorialspoint.com/pyspark/index.htm
+https://www.tutorialspoint.com/dip/index.htm
+https://www.tutorialspoint.com/yaml/index.htm
