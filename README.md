@@ -10,6 +10,9 @@ Resources for Data Science, Machine Learning, Deep Learning
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
 - [NLP Books](https://github.com/shivamms/books/tree/master/nlp)
 
+# Natural Language Processing
+
+- [Top Books on Natural Language Processing](https://machinelearningmastery.com/books-on-natural-language-processing/)
 
 # Machine Learning References
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
