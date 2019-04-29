@@ -22,6 +22,14 @@
 * [Recognizing Traffic Lights With Deep Learning](https://medium.freecodecamp.org/recognizing-traffic-lights-with-deep-learning-23dae23287cc)
   * https://github.com/JunshengFu/traffic-light-detector
 
+## External Datasets
+* [COCO dataset](http://cocodataset.org/#home)
+* [IMDB-WIKI – 500k+ face images with age and gender labels](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
+* [KITTI vision dataset](http://www.cvlibs.net/datasets/kitti/)
+* [Open Images dataset](https://storage.googleapis.com/openimages/web/index.html)
+* [AVA : audiovisual annotations dataset](https://research.google.com/ava/)
+
+
 ## OpenCV + TensorFlow
 * [Real-Time Object detection API using Tensorflow and OpenCV - Feb 25, 2018](https://towardsdatascience.com/real-time-object-detection-api-using-tensorflow-and-opencv-47b505d745c4)
 
