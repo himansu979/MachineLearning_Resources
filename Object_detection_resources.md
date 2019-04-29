@@ -28,7 +28,7 @@
 * [KITTI vision dataset](http://www.cvlibs.net/datasets/kitti/)
 * [Open Images dataset](https://storage.googleapis.com/openimages/web/index.html)
 * [AVA : audiovisual annotations dataset](https://research.google.com/ava/)
-
+* [SceneNet : Repository of Labelled Synthetic Indoor Scenes](https://robotvault.bitbucket.io/)
 
 ## OpenCV + TensorFlow
 * [Real-Time Object detection API using Tensorflow and OpenCV - Feb 25, 2018](https://towardsdatascience.com/real-time-object-detection-api-using-tensorflow-and-opencv-47b505d745c4)
