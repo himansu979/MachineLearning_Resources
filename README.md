@@ -1,5 +1,17 @@
 # Machine Learning Resources
-Resources for Data Science, Machine Learning, Deep Learning
+Resources (blogs, books, tutorial) for Data Science, Machine Learning, Deep Learning, Natural Language Processing.
+
+# Course
+- [Sebastian Raschka](http://pages.stat.wisc.edu/~sraschka/teaching/),
+[Fall 2018](https://github.com/rasbt/stat479-machine-learning-fs18),
+[Spring 2019](https://github.com/rasbt/stat479-deep-learning-ss19)
+- [Book](https://sebastianraschka.com/books.html),
+[github link](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+- [PyTorch tutorials](https://pytorch.org/tutorials/)
+
+# Learn python
+- [object oriented programming](https://www.youtube.com/watch?v=qiSCMNBIP2g)
+- [Python 101 document](https://python101.pythonlibrary.org/)
 
 # Machine Learning Cheatsheet
 
@@ -8,12 +20,20 @@ Resources for Data Science, Machine Learning, Deep Learning
 - [Papers with code](https://github.com/zziz/pwc)
 - [deep learning object detection papers](https://github.com/hoya012/deep_learning_object_detection)
 - [Awesome Deep Learning links](https://github.com/ChristosChristofidis/awesome-deep-learning)
-- [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
-- [NLP Books](https://github.com/shivamms/books/tree/master/nlp)
+- [Datascience books](https://github.com/Shivam967/Data_Science_Books)
+- [pyimagesearch computer vision book](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
 
 # Natural Language Processing
 
+- [Python 101 document](https://python101.pythonlibrary.org/), 
+  [Chapter 31 - Parsing XML with lxml](https://python101.pythonlibrary.org/chapter31_lxml.html)
+- [packages to parse XML files - lxml](https://github.com/lxml/lxml),
+  [untangle](https://github.com/stchris/untangle)
 - [Top Books on Natural Language Processing](https://machinelearningmastery.com/books-on-natural-language-processing/)
+- [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
+- [NLP Books](https://github.com/shivamms/books/tree/master/nlp)
+- [Blog of Dipanjan Sarkar](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
+- [Texmining Book of Dipanjan Sarkar](https://github.com/dipanjanS/text-analytics-with-python)
 
 # Machine Learning References
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
@@ -33,6 +53,9 @@ http://cs229.stanford.edu/suggestions.html
 https://www.analyticsvidhya.com/blog/2014/11/data-science-projects-learn/
 https://www.data.gov/applications
 
+# Flask
+- Flask Tutorial : https://www.tutorialspoint.com/flask/index.htm
+- youtube learn flask for python : https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=474s
 
 # Tutorialspoint
 https://www.tutorialspoint.com/
@@ -41,7 +64,6 @@ https://www.tutorialspoint.com/
 - HTTP : https://www.tutorialspoint.com/http/index.htm
 - DBMS tutorial : https://www.tutorialspoint.com/dbms/index.htm
 - Agile Methodology : https://www.tutorialspoint.com/agile/index.htm
-- Flask Tutorial : https://www.tutorialspoint.com/flask/index.htm
 - HTML5 : https://www.tutorialspoint.com/html5/index.htm
 https://www.tutorialspoint.com/data_structures_algorithms/index.htm
 https://www.tutorialspoint.com/agile_data_science/index.htm
