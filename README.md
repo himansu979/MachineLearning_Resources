@@ -27,8 +27,19 @@ Resources (blogs, books, tutorial) for Data Science, Machine Learning, Deep Lear
 
 - [Python 101 document](https://python101.pythonlibrary.org/), 
   [Chapter 31 - Parsing XML with lxml](https://python101.pythonlibrary.org/chapter31_lxml.html)
-- [packages to parse XML files - lxml](https://github.com/lxml/lxml),
-  [untangle](https://github.com/stchris/untangle)
+- packages to parse XML files - [lxml](https://github.com/lxml/lxml),
+  [untangle](https://github.com/stchris/untangle),
+  [readability-lxml](https://pypi.org/project/readability-lxml/)
+ - packages to parse HTML files - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+ - NLP Libraries - [NLTK : Natural Language Toolkit](https://www.nltk.org/), <br>
+   [gensim](https://radimrehurek.com/gensim/),
+   [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/),
+   [CoreNLP pywrapper](https://github.com/brendano/stanford_corenlp_pywrapper),
+   [TextBlob](https://textblob.readthedocs.io/en/dev/), <br>
+   [pattern](https://www.clips.uantwerpen.be/pattern),
+   [MITIE - Information Extraction](https://github.com/mit-nlp/MITIE),
+   [guess_language](https://bitbucket.org/spirit/guess_language/src/default/),
+   [python wrapper for Berkely wapper](https://github.com/whrrgarbl/berkeleyinterface)
 - [Top Books on Natural Language Processing](https://machinelearningmastery.com/books-on-natural-language-processing/)
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
 - [NLP Books](https://github.com/shivamms/books/tree/master/nlp)
