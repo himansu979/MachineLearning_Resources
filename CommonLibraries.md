@@ -3,6 +3,7 @@
 - python - https://www.python.org/ : v3.7.4 (July 08, 2019)
 - Numpy - https://numpy.org/devdocs/ : v1.18.dev0 (Aug 05, 2019)
 - pandas - Python Data Analysis Library : https://pandas.pydata.org/ - v0.25.0 (July 18, 2019)
+- Scipy - Scientific Computing tools in python : https://www.scipy.org/about.html
 - scikit-learn - https://scikit-learn.org/stable/ - v0.21.3 (July 30, 2019)
 - DASK - scalable analytics - https://dask.org/
 - matplotlib - https://matplotlib.org/ - v3.1.1
