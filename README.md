@@ -57,6 +57,7 @@ Resources (blogs, books, tutorial) for Data Science, Machine Learning, Deep Lear
 - [Big Data Resources](https://github.com/onurakpolat/awesome-bigdata)
 - [Data Science Resources](https://github.com/bulutyazilim/awesome-datascience)
 - [Machine Learning Resources](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome machine learning Resources](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 - [R Resources](https://github.com/qinwf/awesome-R)
 - [Kaggle Blog](http://blog.kaggle.com/)
 - [CS 229 Machine Learning Projects 2013](http://cs229.stanford.edu/projects2013.html)
