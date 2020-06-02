@@ -69,6 +69,10 @@ https://www.data.gov/applications
 - Flask Tutorial : https://www.tutorialspoint.com/flask/index.htm
 - youtube learn flask for python : https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=474s
 
+# Web Development
+- MDN (Mozilla Developer Network) web doc : https://developer.mozilla.org/en-US/docs/Web
+- DOM Event Reference : https://developer.mozilla.org/en-US/docs/Web/Events
+
 # Tutorialspoint
 https://www.tutorialspoint.com/
 
