@@ -67,7 +67,10 @@ https://www.data.gov/applications
 
 # Flask
 - Flask Tutorial : https://www.tutorialspoint.com/flask/index.htm
-- youtube learn flask for python : https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=474s
+- youtube learn flask for python (TODO app) : https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=474s
+
+# Docker container
+- Convert python flask app to docker container : https://www.youtube.com/watch?v=prlixoDIfrc
 
 # Web Development
 - MDN (Mozilla Developer Network) web doc : https://developer.mozilla.org/en-US/docs/Web
