@@ -71,7 +71,9 @@ https://www.data.gov/applications
 
 # Docker container
 - Convert python flask app to docker container : https://www.youtube.com/watch?v=prlixoDIfrc
-- port configuration in docker : https://www.youtube.com/watch?v=6by0pCRQdsI
+  - port configuration in docker : https://www.youtube.com/watch?v=6by0pCRQdsI
+- Automation step by step : https://automationstepbystep.com/
+  - youtube videos : https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK
 
 # Web Development
 - MDN (Mozilla Developer Network) web doc : https://developer.mozilla.org/en-US/docs/Web
