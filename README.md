@@ -71,6 +71,8 @@ https://www.data.gov/applications
 
 # Docker container
 - Docker Toolbox : https://www.youtube.com/watch?v=EZAP-4gV7nk
+  - learning journal guru : https://www.learningjournal.guru/
+  - install docker toolbox on windows : https://docs.docker.com/toolbox/toolbox_install_windows/
 - Convert python flask app to docker container : https://www.youtube.com/watch?v=prlixoDIfrc
   - port configuration in docker : https://www.youtube.com/watch?v=6by0pCRQdsI
   - alpine image : https://hub.docker.com/_/alpine
