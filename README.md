@@ -70,12 +70,16 @@ https://www.data.gov/applications
 - youtube learn flask for python (TODO app) : https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=474s
 
 # Docker container
+- Docker Toolbox : https://www.youtube.com/watch?v=EZAP-4gV7nk
 - Convert python flask app to docker container : https://www.youtube.com/watch?v=prlixoDIfrc
   - port configuration in docker : https://www.youtube.com/watch?v=6by0pCRQdsI
   - alpine image : https://hub.docker.com/_/alpine
 - Automation step by step : https://automationstepbystep.com/
   - youtube videos : https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK
   - ubuntu image : https://hub.docker.com/_/ubuntu
+- pyimagesearch docker : https://www.pyimagesearch.com/2014/12/08/adding-web-interface-image-search-engine-flask/
+- docker for datascience workflow : https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
+
 
 # Web Development
 - MDN (Mozilla Developer Network) web doc : https://developer.mozilla.org/en-US/docs/Web
