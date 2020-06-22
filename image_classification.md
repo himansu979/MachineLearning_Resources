@@ -18,13 +18,13 @@
 - Mixed Janakiram : https://www.youtube.com/watch?v=kUGOACy8vJU&list=RDCMUC8euvszoAXuDXRVgptkHwIg&index=1
 
 # Transfer Learning
-- Transfer Learning with Keras and Deep Learning
-  - Feature extraction : https://www.pyimagesearch.com/2019/05/20/transfer-learning-with-keras-and-deep-learning/
-  - Fine-tuning Resnet : https://www.pyimagesearch.com/2020/04/27/fine-tuning-resnet-with-keras-tensorflow-and-deep-learning/
-  - Fine-tuning MobileNet V2 (facemask) : https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
-  - Fine-tuning VGG16 (chest X-ray) : https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
-  
-  - 
+- [Transfer Learning with Keras and Deep Learning (Feature extraction, VGG16)](https://www.pyimagesearch.com/2019/05/20/transfer-learning-with-keras-and-deep-learning/)
+- [Feature extraction, ResNet-50](https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/)
+- [Finetuning, VGG16](https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/)
+- Fine-tuning Resnet : https://www.pyimagesearch.com/2020/04/27/fine-tuning-resnet-with-keras-tensorflow-and-deep-learning/
+- Fine-tuning MobileNet V2 (facemask) : https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
+- Fine-tuning VGG16 (chest X-ray) : https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
+- Fine-tuning VGG16 (natural disaster) : https://www.pyimagesearch.com/2019/11/11/detecting-natural-disasters-with-keras-and-deep-learning/
   
 
 #### MISC
