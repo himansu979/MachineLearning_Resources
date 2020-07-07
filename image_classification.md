@@ -18,14 +18,29 @@
 - Mixed Janakiram : https://www.youtube.com/watch?v=kUGOACy8vJU&list=RDCMUC8euvszoAXuDXRVgptkHwIg&index=1
 
 # Transfer Learning
-- [Transfer Learning with Keras and Deep Learning (Feature extraction, VGG16)](https://www.pyimagesearch.com/2019/05/20/transfer-learning-with-keras-and-deep-learning/)
-- [Feature extraction, ResNet-50](https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/)
-- [Finetuning, VGG16](https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/)
-- Fine-tuning Resnet : https://www.pyimagesearch.com/2020/04/27/fine-tuning-resnet-with-keras-tensorflow-and-deep-learning/
-- Fine-tuning MobileNet V2 (facemask) : https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
-- Fine-tuning VGG16 (chest X-ray) : https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
-- Fine-tuning VGG16 (natural disaster) : https://www.pyimagesearch.com/2019/11/11/detecting-natural-disasters-with-keras-and-deep-learning/
-  
+- [Transfer Learning with Keras and Deep Learning (Feature extraction, VGG16) 05/20/2019](https://www.pyimagesearch.com/2019/05/20/transfer-learning-with-keras-and-deep-learning/)
+- [Feature extraction, ResNet-50, large datasets 05/27/2019](https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/)
+- [Finetuning, VGG16 06/03/2019](https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/)
+- [VGG16, change input shape Finetuning 06/24/2019](https://www.pyimagesearch.com/2019/06/24/change-input-shape-dimensions-for-fine-tuning-with-keras/)
+
+- Fine-tuning MobileNet V2 (facemask) (05/04/2020) : https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
+- Fine-tuning ResNet50 (04/27/2020) : https://www.pyimagesearch.com/2020/04/27/fine-tuning-resnet-with-keras-tensorflow-and-deep-learning/
+- Fine-tuning VGG16 (chest X-ray) (03/16/2020): https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
+- Fine-tuning VGG16 (natural disaster) (11/11/2019): https://www.pyimagesearch.com/2019/11/11/detecting-natural-disasters-with-keras-and-deep-learning/
+- ImageNet (03/20/2017): https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+
+# PyTorch
+- PyTorch for beginners : https://www.learnopencv.com/pytorch-for-beginners-image-classification-using-pre-trained-models/
+- How to convert model from PyTorch to TensorRT : https://www.learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/
+- Albumentation : https://github.com/albumentations-team/albumentations
+
+# NVIDIA Jetson Nano
+- Getting started with NVIDIA Jetson Nano : https://www.pyimagesearch.com/2019/05/06/getting-started-with-the-nvidia-jetson-nano/
+  - https://developer.nvidia.com/embedded/jetson-nano
+  - NVIDIA Maxwell architecture with 128 NVIDIA CUDA® cores
+- Recommended GPUs for Developers : https://developer.nvidia.com/cuda-gpus#compute
+- Download Drivers : https://www.nvidia.com/Download/index.aspx
+- CUDA toolkit : https://developer.nvidia.com/cuda-toolkit-archive
 
 #### MISC
 - BestPlaces cost of living : https://www.bestplaces.net/cost-of-living/
