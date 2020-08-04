@@ -36,6 +36,7 @@ Resources (blogs, books, tutorial) for Data Science, Machine Learning, Deep Lear
    [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/),
    [CoreNLP pywrapper](https://github.com/brendano/stanford_corenlp_pywrapper),
    [TextBlob](https://textblob.readthedocs.io/en/dev/), <br>
+   [FlashText](https://www.analyticsvidhya.com/blog/2017/11/flashtext-a-library-faster-than-regular-expressions/), <br>
    [pattern](https://www.clips.uantwerpen.be/pattern),
    [MITIE - Information Extraction](https://github.com/mit-nlp/MITIE),
    [guess_language](https://bitbucket.org/spirit/guess_language/src/default/),
